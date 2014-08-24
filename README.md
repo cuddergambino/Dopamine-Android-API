@@ -1,6 +1,6 @@
 Dopamine API Android Client
 ======================
-
+useDopamine.com
 #Quick Start
 
 You can get Dopamine in your Android app in just a few minutes. Here’s how:
